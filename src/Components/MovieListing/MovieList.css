@@ -1,0 +1,18 @@
+/* .movie-wrapper .movie-list{
+    display: flex;
+    flex-direction: column;
+} */
+
+.movie-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 90%;
+    margin: auto;
+}
+
+.movie-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 90%;
+    margin: auto;
+}

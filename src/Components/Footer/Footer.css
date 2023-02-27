@@ -1,0 +1,11 @@
+@import "../../Common/Color.css";
+
+.footer{
+    height: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--bg-background-color);
+    color: var(--text-white);
+    flex-direction: column;
+}

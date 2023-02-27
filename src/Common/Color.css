@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Murecho:wght@300&family=Poppins:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    /* Background Color */
+    --bg-danger: #f63440;
+    --bg-white: #ffff;
+    --bg-light-white: #f5f5f5;
+    --bg-background-color: rgba(0, 0, 0, 0.781);
+    
+    /* Text Color */
+    --primary-fonts: "Poppins", sans-sarif;
+    --text-white: #ffff;
+    --text-black: #121212;
+    --text-danger: #f63440;
+    --text-gray: #aaa;
+    --text-dark-gray: #7777;
+}

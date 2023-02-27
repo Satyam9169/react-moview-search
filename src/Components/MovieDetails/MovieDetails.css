@@ -1,0 +1,12 @@
+@import '../../Common/Color.css';
+
+.section-left{
+    cursor: pointer;
+    border: 1px solid yellow;
+}
+.section-right{
+    cursor: pointer;
+}
+.movie-plot{
+    color: rgb(51, 245, 180);
+}
