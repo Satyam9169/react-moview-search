@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-moview-search/static/css/main.2b155db9.css",
+    "main.js": "/react-moview-search/static/js/main.5bf9b525.js",
+    "static/media/logo.png": "/react-moview-search/static/media/logo.f9c0ea9c7691796e13d5.png",
+    "static/media/user.png": "/react-moview-search/static/media/user.3151e27d9bebc09cec9c.png",
+    "index.html": "/react-moview-search/index.html",
+    "main.2b155db9.css.map": "/react-moview-search/static/css/main.2b155db9.css.map",
+    "main.5bf9b525.js.map": "/react-moview-search/static/js/main.5bf9b525.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b155db9.css",
+    "static/js/main.5bf9b525.js"
+  ]
+}
