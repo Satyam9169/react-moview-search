@@ -13,6 +13,13 @@
 ``
 ![Screenshot (115)](https://github.com/Satyam9169/react-moview-search/assets/38384042/26da8c37-b5ec-4f4c-bb95-7e0641920f8f)
 
+``
+all specification of the movie
+``
+
+![image](https://github.com/Satyam9169/react-moview-search/assets/38384042/f9a346a6-a779-4486-813f-33880930a34b)
+
+
 
 
 
