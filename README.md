@@ -19,6 +19,12 @@ all specification of the movie
 
 ![image](https://github.com/Satyam9169/react-moview-search/assets/38384042/f9a346a6-a779-4486-813f-33880930a34b)
 
+``
+This is about show list
+``
+![image](https://github.com/Satyam9169/react-moview-search/assets/38384042/1c88aab8-4eaf-4106-a77b-e4ca38496dfc)
+
+
 
 
 
